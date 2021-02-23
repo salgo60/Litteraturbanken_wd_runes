@@ -1,6 +1,6 @@
 # Litteraturbanken_wd_runes
-- [ ] skapa kopplingar Wikidata -> del av bok hos Litteraturbanken som beskriver runan
-- [ ] koppla bilder i Wikicommons till den runa de avbildar
+- [ ] skapa kopplingar Wikidata -> del av bok hos Litteraturbanken som beskriver runan se [karta](https://w.wiki/zKW) 
+- [ ] koppla bilder i Wikicommons till den runa de avbildar video hur vi kopplar metadata i WIkibase på WIkicommons till Wikidata objekt som beskriver runan
 
 * Worksheet ["Runestones in the Swedish Litteraturebank"](https://docs.google.com/spreadsheets/d/1TraXcbQwSsysCfsTK5i0zECVFIw2OoIjRZ0nv64GX-M/edit#gid=0)
   * [karta](https://w.wiki/zKW) med det som kopplats WD -> Litteraturbanken verk [lista](https://w.wiki/327T), [bilder](https://w.wiki/327V)
