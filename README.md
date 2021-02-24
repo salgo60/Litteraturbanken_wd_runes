@@ -18,4 +18,4 @@
 * [Video:Hur vi kopplar mot Litteraturbanken](https://www.youtube.com/watch?v=0Ac3oLSH7QU)
 * [Video:;Hur bilder i Wikicommons kopplas med Wikibase till Wikidata](https://www.youtube.com/watch?v=QhZtGIJMEVQ&feature=youtu.be) dataroundtripping möjlighet dvs. [Semantisk interoperabilitet](https://en.wikipedia.org/wiki/Semantic_interoperability)
   * Evighetsrunor bör ha unika bildid i Wikicommons
-  * Wikicommons bör ha Evighetsrunors biuldid och där skulle Evighetsrunor vara en auktoritet för vad bilden föreställer 
+  * Wikicommons bör ha i sitt metadata Evighetsrunors bildid för samma bild och där skulle Evighetsrunor vara en auktoritet för vad bilden föreställer 
