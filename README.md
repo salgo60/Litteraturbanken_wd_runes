@@ -16,8 +16,9 @@
      * 47 records 2020-02-22 
 
 ## Litteraturbanken Place ID ##
-* Ny WD egenskap för en plats i Litteraturbankens karta se Task xxx och [Property P9213](https://www.wikidata.org/wiki/Property:P9213)
-* Task för att populera egenskapen xxxxx
+* Ny WD egenskap för en plats i [Litteratur kartan](https://litteraturbanken.se/litteraturkartan/) se Task [T273156](https://phabricator.wikimedia.org/T273156) och [Property P9213](https://www.wikidata.org/wiki/Property:P9213)
+* Task för att populera egenskapen [T275700](https://phabricator.wikimedia.org/T275700)
+  * Exempel Runsten Vg 152 = [plats 189](https://litteraturbanken.se/litteraturkartan/?id=189) = Wikidata 
 ## Video
 * [Video:Hur vi kopplar mot Litteraturbanken](https://www.youtube.com/watch?v=0Ac3oLSH7QU)
 * [Video:;Hur bilder i Wikicommons kopplas med Wikibase till Wikidata](https://www.youtube.com/watch?v=QhZtGIJMEVQ&feature=youtu.be) dataroundtripping möjlighet dvs. [Semantisk interoperabilitet](https://en.wikipedia.org/wiki/Semantic_interoperability)
