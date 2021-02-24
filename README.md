@@ -1,11 +1,12 @@
 # Litteraturbanken wikidata Runor
 - [ ] skapa kopplingar Wikidata -> del av bok hos Litteraturbanken som beskriver runan se [karta](https://w.wiki/zKW) 
 - [ ] koppla bilder i Wikicommons till den runa de avbildar video hur vi kopplar metadata i WIkibase på WIkicommons till Wikidata objekt som beskriver runan
-- [ ] starta dialog med Evighetsrunor om dom har unika bild:idn som kan vara en "auktoritet" för bilder i WIkipedia dvs. konfimera att bild x föreståller runa y  
+- [ ] starta dialog med Evighetsrunor om dom har unika bildidn som kan vara en "auktoritet" för bilder i WIkipedia dvs. konfirmera att bild x föreståller runa y  
 - [ ] skapa nya Entity schemas så att datat vi bygger upp i Wikidata blir enkelt att återanvända av andra
   - [ ] för Runor som finns hos Litteraturbanken finns detta schema [EntitySchema:E290](https://www.wikidata.org/wiki/EntitySchema:E290)
   - [ ] för bilder på runor TBD 
     - tänker mig att bilder snart blir bra sökbara så genom att markera delar av bild kan vi navigera runstensbilder på nya sätt...
+    - hur markeras att bild [Kulisteinen.jpg](https://commons.wikimedia.org/wiki/File:Kulisteinen.jpg) är en bild som avbildar en kopia av [N 449](https://www.wikidata.org/wiki/Q3367792)
 * Worksheet ["Runestones in the Swedish Litteraturebank"](https://docs.google.com/spreadsheets/d/1TraXcbQwSsysCfsTK5i0zECVFIw2OoIjRZ0nv64GX-M/edit#gid=0)
   * [karta](https://w.wiki/zKW) med det som kopplats WD -> Litteraturbanken verk [lista](https://w.wiki/327T), [bilder](https://w.wiki/327V)
 ## SPARQL
