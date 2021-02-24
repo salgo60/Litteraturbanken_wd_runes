@@ -18,7 +18,8 @@
 ## Litteraturbanken Place ID ##
 * Ny WD egenskap för en plats i [Litteratur kartan](https://litteraturbanken.se/litteraturkartan/) se Task [T273156](https://phabricator.wikimedia.org/T273156) och [Property P9213](https://www.wikidata.org/wiki/Property:P9213)
 * Task för att populera egenskapen [T275700](https://phabricator.wikimedia.org/T275700)
-  * Exempel Runsten Vg 152 = [plats 189](https://litteraturbanken.se/litteraturkartan/?id=189) = Wikidata 
+  * Exempel Runsten Vg 152 = [plats 189](https://litteraturbanken.se/litteraturkartan/?id=189) = Wikidata [Q10717923](https://www.wikidata.org/wiki/Q10717923) =  [Evighetsrunor b31c2d13-07c0-44a1-85ee-03340e517ed2](https://app.raa.se/open/runor/inscription?id=b31c2d13-07c0-44a1-85ee-03340e517ed2) 
+    * Wikidata saknar egenskap för Runinskription och bild hos Evighetsrunor idag se [Wikidata property proposal](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Evighetsrunor) 
 ## Video
 * [Video:Hur vi kopplar mot Litteraturbanken](https://www.youtube.com/watch?v=0Ac3oLSH7QU)
 * [Video:;Hur bilder i Wikicommons kopplas med Wikibase till Wikidata](https://www.youtube.com/watch?v=QhZtGIJMEVQ&feature=youtu.be) dataroundtripping möjlighet dvs. [Semantisk interoperabilitet](https://en.wikipedia.org/wiki/Semantic_interoperability)
