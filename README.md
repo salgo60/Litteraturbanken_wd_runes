@@ -7,6 +7,7 @@
   - [ ] för bilder på runor TBD 
     - tänker mig att bilder snart blir bra sökbara så genom att markera delar av bild kan vi navigera runstensbilder på nya sätt...
     - hur markeras att bild [Kulisteinen.jpg](https://commons.wikimedia.org/wiki/File:Kulisteinen.jpg) är en bild som avbildar en kopia av [N 449](https://www.wikidata.org/wiki/Q3367792)
+      - förslag markerar ej koppling --> kopiam skall inte finnas i Wikidata som ett eget objekt... 
 * Worksheet ["Runestones in the Swedish Litteraturebank"](https://docs.google.com/spreadsheets/d/1TraXcbQwSsysCfsTK5i0zECVFIw2OoIjRZ0nv64GX-M/edit#gid=0)
   * [karta](https://w.wiki/zKW) med det som kopplats WD -> Litteraturbanken verk [lista](https://w.wiki/327T), [bilder](https://w.wiki/327V)
 ## SPARQL
