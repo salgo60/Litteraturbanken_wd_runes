@@ -20,6 +20,8 @@
 * Task för att populera egenskapen [T275700](https://phabricator.wikimedia.org/T275700)
   * Exempel Runsten Vg 152 = [plats 189](https://litteraturbanken.se/litteraturkartan/?id=189) = Wikidata [Q10717923](https://www.wikidata.org/wiki/Q10717923) =  [Evighetsrunor b31c2d13-07c0-44a1-85ee-03340e517ed2](https://app.raa.se/open/runor/inscription?id=b31c2d13-07c0-44a1-85ee-03340e517ed2) 
     * Wikidata saknar egenskap för Runinskription och bild hos Evighetsrunor idag se [Wikidata property proposal](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Evighetsrunor) 
+    * Mall [Litteraturkartan](https://sv.wikipedia.org/wiki/Mall:Litteraturkartan) används i [artiklar](https://sv.wikipedia.org/wiki/Special:L%C3%A4nkar_hit/Mall:Litteraturkartan)
+* SPARQL [Litteraturkartan och Runor](https://w.wiki/32Tk)
 ## Video
 * [Video:Hur vi kopplar mot Litteraturbanken](https://www.youtube.com/watch?v=0Ac3oLSH7QU)
 * [Video:;Hur bilder i Wikicommons kopplas med Wikibase till Wikidata](https://www.youtube.com/watch?v=QhZtGIJMEVQ&feature=youtu.be) dataroundtripping möjlighet dvs. [Semantisk interoperabilitet](https://en.wikipedia.org/wiki/Semantic_interoperability)
