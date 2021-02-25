@@ -27,4 +27,4 @@
 * [Video:;Hur bilder i Wikicommons kopplas med Wikibase till Wikidata](https://www.youtube.com/watch?v=QhZtGIJMEVQ&feature=youtu.be) dataroundtripping möjlighet dvs. [Semantisk interoperabilitet](https://en.wikipedia.org/wiki/Semantic_interoperability)
   * Evighetsrunor bör ha unika bildid i Wikicommons
   * Wikicommons bör ha i sitt metadata Evighetsrunors bildid för samma bild och där skulle Evighetsrunor vara en auktoritet för vad bilden föreställer 
-* [Wikidata runor Litteraturbanken data roundtrip](https://www.youtube.com/watch?v=qQ48Pqhfi1o&feature=youtu.be)
+* [Video:Wikidata runor Litteraturbanken data roundtrip](https://www.youtube.com/watch?v=qQ48Pqhfi1o&feature=youtu.be)
