@@ -8,4 +8,4 @@ Finns idga ingen yta att skicka in feedbasck Evighetsrunor så jag skriver dennn
 6) Enklare hoppa till nästa bild på en sida för en runa med ex. pil höger
 7) Att det finns unikt persistent bild id som vi skulle kunna ha som en egenskap på Wikicommons bilder ex. bild [M63035006](http://commons.wikimedia.org/entity/M63035006) [json](http://commons.wikimedia.org/entity/M63035006.json) är samma som [kmb.raa.se id=16000200163648](https://kmb.raa.se/cocoon/bild/show-image.html?id=16000200163648) men finns även i Evighetsrunor
    1) Bilden finns även i Evighetsrunor och borde där ha ett unikt ID som vi kan lägga till Wikicommons structured data ( tanken är att ha en ny Evighetsrunor egenskap)
-     2) verkar som den fysiska bilden finns inte i Evighetsrunor med eget metadata?!?!? vilket känns fel/skört  Jag vill kunna ha Evighetsrunir klassificerade vilka runor som den föreställer som en auktoritet 
+     2) verkar som den fysiska bilden finns inte i Evighetsrunor med eget metadata?!?!? vilket känns fel/skört  Jag vill kunna ha Evighetsrunor klassificerade vilka runor som den föreställer som en auktoritet 
