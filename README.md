@@ -1,7 +1,7 @@
 # Litteraturbanken wikidata Runor
 - [ ] skapa kopplingar Wikidata -> del av bok hos Litteraturbanken som beskriver runan se [karta](https://w.wiki/zKW) 
 - [ ] koppla bilder i Wikicommons till den runa de avbildar [se video](https://youtu.be/qQ48Pqhfi1o?t=82) hur vi kopplar metadata i WIkibase på WIkicommons till Wikidata objekt som beskriver runan
-   - se [video](https://youtu.be/qQ48Pqhfi1o), enklast vore om Evighetsrunor hade sina bilder med metadatadata i någon form av Wikibase på samma sätt som Wikicommons 
+   - se [video](https://youtu.be/qQ48Pqhfi1o), enklast vore om Evighetsrunor hade sina bilder med metadatadata i någon form exempel installera en egen Wikibase på samma sätt som Wikicommons är en egen Wikibase 
 - [ ] starta dialog med Evighetsrunor om dom har unika bildidn som kan vara en "auktoritet" för bilder i Wikipedia/Wikicommons dvs. konfirmera att bild x föreställer runa y  
 - [ ] skapa nya Entity schemas så att datat vi bygger upp i Wikidata blir enkelt att återanvända av andra
   - [ ] för Runor som finns hos Litteraturbanken finns detta schema [EntitySchema:E290](https://www.wikidata.org/wiki/EntitySchema:E290)
