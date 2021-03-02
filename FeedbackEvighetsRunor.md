@@ -1,0 +1,11 @@
+Finns idga ingen yta att skicka in feedbasck Evighetsrunor så jag skriver dennna
+
+1) Söker på Signum saknar padding dvs. har du "Öl 20 " eller " Öl 20" så fås inga träff
+2) Vore trevligt att kunna i en URL ha med WGS84 coordinat och komma till platsen direkt. Aktivitet jag gör på Wikicommons är matcha bild med runa och då kan man ha EXIF med koordinat --> att kunna hoppa direkt till platsen skulle underlätta
+3) RDF filen på kulturnav verkar iunnehålla bra info lägg till länkar hmf flik "Länkar" på sidan http://mis.historiska.se/mis/sok/fid.asp?fid=45084&page=7&in=1 
+4) Sökning efter "udda" Signum kunde vara bättre ex.
+5) Bildsökning eller liknande.....har jag en bild på RUna ex. Näs kuyrka [Näs kyrka - KMB - 16000200163658.jpg](https://commons.wikimedia.org/wiki/File:N%C3%A4s_kyrka_-_KMB_-_16000200163658.jpg) så har jag idag svårt att hiutta vilken det är och om den överhuvudtaget finns
+6) Enklare hoppa till nästa bild på en sida för en runa med ex. pil höger
+7) Att det finns unikt persistent bild id som vi skulle kunna ha som en egenskap på Wikicommons bilder ex. bild [M63035006](http://commons.wikimedia.org/entity/M63035006) [json](http://commons.wikimedia.org/entity/M63035006.json) är samma som [kmb.raa.se id=16000200163648](https://kmb.raa.se/cocoon/bild/show-image.html?id=16000200163648) men finns även i Evighetsrunor
+   1) Bilden finns även i Evighetsrunor och borde där ha ett unikt ID som vi kan lägga till Wikicommons structured data ( tanken är att ha en ny Evighetsrunor egenskap)
+     2) verkar som den fysiska bilden finns inte i Evighetsrunor med eget metadata?!?!? vilket känns fel/skört  Jag vill kunna ha Evighetsrunor klassificerade vilka runor som den föreställer som en auktoritet 
