@@ -27,6 +27,7 @@
     * Wikidata saknar egenskap för Runinskription och bild hos Evighetsrunor idag se [Wikidata property proposal](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Evighetsrunor) 
     * Mall [Litteraturkartan](https://sv.wikipedia.org/wiki/Mall:Litteraturkartan) används i [artiklar](https://sv.wikipedia.org/wiki/Special:L%C3%A4nkar_hit/Mall:Litteraturkartan)
 * SPARQL [Litteraturkartan och Runor](https://w.wiki/32Tk)
+* se även fler exempel [Container](https://github.com/spraakbanken/littb-frontend/issues/25): [Nils Holgersson](https://w.wiki/jEo), [Bellmans Stockholm](https://w.wiki/mMH) 
 ## Video
 * [Video:Hur vi kopplar mot Litteraturbanken](https://www.youtube.com/watch?v=0Ac3oLSH7QU)
 * [Video:;Hur bilder i Wikicommons kopplas med Wikibase till Wikidata](https://www.youtube.com/watch?v=QhZtGIJMEVQ&feature=youtu.be) dataroundtripping möjlighet dvs. [Semantisk interoperabilitet](https://en.wikipedia.org/wiki/Semantic_interoperability)
