@@ -10,4 +10,4 @@ Finns idag ingen yta att skicka in feedbasck Evighetsrunor så jag skriver dennn
    1) Bilder som finns i Evighetsrunor och bör där ha ett unikt ID som vi kan lägga till Wikicommons structured data ( tanken är att ha en ny Evighetsrunor egenskap som bör kunna peka på Runa men även på bild)
    2) Var ser vi vilket metadata som finns på en bild i Evighetsrunor?!?!?  Jag vill kunna se om en bild i Wikicommons finns i Evighetsrunor och vilka runor som finns i denna bild(personer)
    3) Enkelt kunna jämföra bild i WIkicommons med de bilder som finns i Evighetsrunor och hitta avvikelser (ex. att data i WIkidata vandaliserats)
-7) Signum look upp är lite skakig se [video](https://youtu.be/SWS6dtA_ltY)
+7) Signum "look up" är lite skakig se [video](https://youtu.be/SWS6dtA_ltY)
