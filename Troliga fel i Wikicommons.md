@@ -5,6 +5,8 @@ Vi borde ha en data roundtrip dvs. hjälpa varandra att förnättra varandras bi
 
 ### Osäkra
 
+### Konstigheter
+* [Q2176390](https://www.wikidata.org/wiki/Q2176390) Runa med 2 Samnordisk runtextdatabas signum BH 33 BH 34
 
 ## Misc
 * [Commons:Riksantikvarieämbetet/Error reports](https://commons.wikimedia.org/wiki/Commons:Riksantikvarie%C3%A4mbetet/Error_reports)
