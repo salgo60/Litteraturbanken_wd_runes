@@ -41,3 +41,6 @@
   * Evighetsrunor bör ha unika bildid i Wikicommons
   * Wikicommons bör ha i sitt metadata Evighetsrunors bildid för samma bild och där skulle Evighetsrunor vara en auktoritet för vad bilden föreställer 
 * [Video:Wikidata runor Litteraturbanken data roundtrip](https://www.youtube.com/watch?v=qQ48Pqhfi1o&feature=youtu.be)
+# Wikipedia / Wikidata
+* [Wikipedia:Projekt runstenar](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_runstenar)
+* [Wikidata:Sweden/Runic inscription](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Runic_inscription#SPARQL)
