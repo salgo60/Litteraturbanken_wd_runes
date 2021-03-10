@@ -1,6 +1,6 @@
 # Litteraturbanken wikidata Runor
 * [Karta med kopplade böcker](https://w.wiki/zKW) video
-
+![](https://github.com/salgo60/Litteraturbanken_wd_runes/blob/main/images/Runkarta%20WD.png?raw=true)
 
 * Kanban boards [Bautil](https://github.com/salgo60/Litteraturbanken_wd_runes/projects/1) / [Misc](https://github.com/salgo60/Litteraturbanken_wd_runes/projects/2)
 - [ ] skapa kopplingar Wikidata -> del av bok hos Litteraturbanken som beskriver runan se [karta](https://w.wiki/zKW) / [video](https://youtu.be/VvaZvkBmZcU)
