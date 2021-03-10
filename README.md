@@ -1,4 +1,7 @@
 # Litteraturbanken wikidata Runor
+* [Karta med kopplade böcker](https://w.wiki/zKW) video
+
+
 * Kanban boards [Bautil](https://github.com/salgo60/Litteraturbanken_wd_runes/projects/1) / [Misc](https://github.com/salgo60/Litteraturbanken_wd_runes/projects/2)
 - [ ] skapa kopplingar Wikidata -> del av bok hos Litteraturbanken som beskriver runan se [karta](https://w.wiki/zKW) / [video](https://youtu.be/VvaZvkBmZcU)
   - exempel U 51 = [Wikidata Q18334422](https://www.wikidata.org/wiki/Q18334422?uselang=sv) som finns i 3 böcker hos Litteraturbanken men även Bautil [video](https://youtu.be/oq8XtxIfEwo)   
