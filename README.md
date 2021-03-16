@@ -1,5 +1,5 @@
 # Litteraturbanken wikidata Runor
-* Kanban boards [Bautil](https://github.com/salgo60/Litteraturbanken_wd_runes/projects/1) / [Misc](https://github.com/salgo60/Litteraturbanken_wd_runes/projects/2)
+* Kanban boards [Misc todo](https://github.com/salgo60/Litteraturbanken_wd_runes/projects/2) / [Bautil](https://github.com/salgo60/Litteraturbanken_wd_runes/projects/1) /
 
 
 * [Karta med kopplade böcker](https://w.wiki/zKW) - [video](https://youtu.be/wjOCnJTBghA)
