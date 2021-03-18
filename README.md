@@ -1,4 +1,4 @@
-# Litteraturbanken wikidata Runor
+# Litteraturbanken Wikidata Runinskriptioner
 * Kanban boards [Misc todo](https://github.com/salgo60/Litteraturbanken_wd_runes/projects/2) / [Bautil](https://github.com/salgo60/Litteraturbanken_wd_runes/projects/1) /
 
 
