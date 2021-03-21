@@ -4,6 +4,7 @@
 
 * [Karta med kopplade böcker till Litteraturbanken](https://w.wiki/zKW) - [video](https://youtu.be/wjOCnJTBghA)
    * test [karta med alla källor](https://w.wiki/36kf)
+   * [Bautil](https://w.wiki/37TX)
 ![](https://github.com/salgo60/Litteraturbanken_wd_runes/blob/main/images/Runkarta%20WD.png?raw=true)
 
 - [ ] skapa kopplingar Wikidata -> del av bok hos Litteraturbanken som beskriver runan se [karta](https://w.wiki/zKW) / [video](https://youtu.be/VvaZvkBmZcU)
