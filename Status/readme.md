@@ -1,5 +1,10 @@
+
 ## Status rapporter [Litteraturbanken_wd_runes](https://github.com/salgo60/Litteraturbanken_wd_runes)
 - Status [2021-03-24](Status%2020210324.md)
+
+### Kanban boards
+* [Misc todo](https://github.com/salgo60/Litteraturbanken_wd_runes/projects/2) 
+* [Bautil](https://github.com/salgo60/Litteraturbanken_wd_runes/projects/1) 
 
 ## Kommentera gärna 
 Min tro är att skall saker som roundtrips och hitta var Wikidata ger mervärde behövs mycket med dialog
