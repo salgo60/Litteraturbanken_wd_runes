@@ -1,7 +1,5 @@
 # Litteraturbanken Wikidata Runinskriptioner
 * [Status rapporter](https://github.com/salgo60/Litteraturbanken_wd_runes/blob/main/Status)
-* Kanban boards [Misc todo](https://github.com/salgo60/Litteraturbanken_wd_runes/projects/2) / [Bautil](https://github.com/salgo60/Litteraturbanken_wd_runes/projects/1) /
-
 
 * [Karta med kopplade böcker till Litteraturbanken](https://w.wiki/zKW) - [video](https://youtu.be/wjOCnJTBghA)
    * test [karta med alla källor](https://w.wiki/36kf)
