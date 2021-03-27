@@ -1,6 +1,6 @@
 # Litteraturbanken Wikidata Runinskriptioner
 * [Status rapporter](https://github.com/salgo60/Litteraturbanken_wd_runes/blob/main/Status)
-
+  * The project described in English [Structured_data_for_GLAM-Wiki/Roundtripping/KMB](https://meta.wikimedia.org/wiki/Structured_data_for_GLAM-Wiki/Roundtripping/KMB) 
 * [Karta med kopplade böcker till Litteraturbanken](https://w.wiki/zKW) - [video](https://youtu.be/wjOCnJTBghA)
    * test [karta med alla källor](https://w.wiki/36kf)
    * [Bautil](https://w.wiki/37TX)
