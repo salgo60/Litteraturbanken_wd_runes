@@ -59,6 +59,7 @@
     * Mall [Litteraturkartan](https://sv.wikipedia.org/wiki/Mall:Litteraturkartan) används i [artiklar](https://sv.wikipedia.org/wiki/Special:L%C3%A4nkar_hit/Mall:Litteraturkartan)
 * SPARQL [Litteraturkartan och Runor](https://w.wiki/32Tk)
 * se även fler exempel [Container](https://github.com/spraakbanken/littb-frontend/issues/25): [Nils Holgersson](https://w.wiki/jEo), [Bellmans Stockholm](https://w.wiki/mMH) 
+* en utmaning är att Litteraturbanken inte jobbar med kunskapsgrafer utan "bara" anger en koordinat och koppling bok se min [kommentar i artikeln](https://meta.wikimedia.org/wiki/Structured_data_for_GLAM-Wiki/Roundtripping/KMB#Next_step_Dataroundtripping_Swedish_Literature_Bank_%3C-%3E_Wikidata_-_position_in_a_book_and_location_on_a_map) "is that the map Swedish Literature Bank has is more coordinates than Things i" och [Johans Roxendal](https://spraakbanken.gu.se/en/about/staff/johan) refelektion i hans presenatition om kopplingar Wikidata (länk kommer).
 ## Video
 * [Video:Hur vi kopplar mot Litteraturbanken](https://www.youtube.com/watch?v=0Ac3oLSH7QU)
 * [Video:;Hur bilder i Wikicommons kopplas med Wikibase till Wikidata](https://www.youtube.com/watch?v=QhZtGIJMEVQ&feature=youtu.be) dataroundtripping möjlighet dvs. [Semantisk interoperabilitet](https://en.wikipedia.org/wiki/Semantic_interoperability)
