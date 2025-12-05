@@ -1,4 +1,5 @@
 # Litteraturbanken Wikidata Runinskriptioner
+* [https://meta.wikimedia.org/wiki/Structured_data_for_GLAM-Wiki/Roundtripping/KMB Structured data for GLAM-Wiki/Roundtripping/KMB] - [https://www.youtube.com/watch?v=GeDXzInR_mA video]
 * [Status rapporter](https://github.com/salgo60/Litteraturbanken_wd_runes/blob/main/Status)
   * The project described in English [Structured_data_for_GLAM-Wiki/Roundtripping/KMB](https://meta.wikimedia.org/wiki/Structured_data_for_GLAM-Wiki/Roundtripping/KMB) 
 * [Karta med kopplade böcker till Litteraturbanken](https://w.wiki/zKW) - [video](https://youtu.be/wjOCnJTBghA)
