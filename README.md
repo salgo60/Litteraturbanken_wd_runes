@@ -24,7 +24,7 @@
   * test [karta](https://w.wiki/32ts) där även icke Litteraturbanken visas ex. [Bautil](https://digital.ub.umu.se/node/249114?fulltext-query=)
     * enbart [Bautil](https://digital.ub.umu.se/node/249114?fulltext-query=) - [karta](https://w.wiki/32zE) / [lista](https://w.wiki/32zC) / [image Grid](https://w.wiki/32zL) - [Wikicommons Bautil](https://commons.wikimedia.org/wiki/Category:Bautil)
 ## Wikidata egetskapsförslag Evighetsrunor 2021
-* [Wikidata:Property_proposal/Evighetsrunor](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Evighetsrunor) blev tyvärr nedrästat
+* [Wikidata:Property_proposal/Evighetsrunor](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Evighetsrunor) blev tyvärr nedröstat
 Känns fortfarande fel att den inte skapades Wikipedia/Wikipedia fungerar bättre med enskilda egenskaper att hålla på och prata om att man kan från URI se vilken egenskap det är skalar dåligt.
 ## SPARQL - Wikicommons - Runinskriptioner med koppling RAÄ/ Uppsala Evighetsrunor
 * Bilder i Wikicommons föreställande Runor där vi kopplar dessa till Wikidata med [SDC](https://www.youtube.com/watch?v=lmWmMIuCJVM) verkar som WCQS inte är satt i produktion till 100% se [T262265](https://phabricator.wikimedia.org/T262265) och EPIC [T260568](https://phabricator.wikimedia.org/T260568)
