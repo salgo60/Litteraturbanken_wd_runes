@@ -47,9 +47,9 @@ Motargumentet från Abbe98 och Biltvätt var:
 Det är i sig korrekta **Linked-Data**-principer.
 
 Problemet är att dessa principer fungerar dåligt i praktiken i Wikidata/Wikipedia:
-# mallar kan inte hämta RDF
-# SPARQL i Wikidata Query Service kan inte slå upp externa tjänster
-# användare kan inte avgöra typ av länk utan att gissa på URI-mönster
+1. mallar kan inte hämta RDF
+2. SPARQL i Wikidata Query Service kan inte slå upp externa tjänster
+3. användare kan inte avgöra typ av länk utan att gissa på URI-mönster
 
 #### 2. Wikidata/Wikipedia-perspektivet
 Prioriterar:
